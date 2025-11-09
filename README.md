@@ -132,7 +132,7 @@ As principais bibliotecas utilizadas neste projeto são:
 1.  **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/seu-usuario/sabor-express-ia.git
+    git clone https://github.com/JoaoPinazo/sabor-express-ia.git
     cd sabor-express-ia
     ```
 

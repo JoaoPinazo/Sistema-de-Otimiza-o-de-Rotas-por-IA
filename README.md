@@ -1,8 +1,4 @@
-Aqui está um modelo completo do arquivo `README.md` para o repositório do GitHub, baseado na solução SORA (Sistema de Otimização de Rotas por IA) que discutimos.
 
-Este documento atende a todos os requisitos da "Parte Teórica" e também inclui as seções necessárias para a "Parte Prática" (como estrutura do projeto e instruções de execução).
-
------
 
 # Sabor Express - Sistema de Otimização de Rotas por IA (SORA)
 
